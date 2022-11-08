@@ -1,4 +1,4 @@
-### I’m Unity Game developer, Computer Science Fresh gradute with +6 Months freelance experience and 2 self-published mobile game with +19 K downloads
+### I’m Unity Game developer, Computer Science Fresh gradute with +6 Months freelance experience and 2 self-published mobile game with +22 K downloads
 <!--👋-->
 
 <!--

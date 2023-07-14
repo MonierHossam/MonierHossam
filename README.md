@@ -1,4 +1,6 @@
-### I’m Unity Game developer, Computer Science Fresh gradute with +6 Months freelance experience and 2 self-published mobile game with +22 K downloads
+### Computer Science Graduate 
++2 years .Net & Unity game developer freelancing on Upwork
+2 self-published mobile games with +20K downloads
 <!--👋-->
 
 <!--

@@ -1,7 +1,7 @@
 ### .Net & Unity game developer
-Computer Science Graduate 
-+2 years .Net & Unity game developer freelancing on Upwork
-2 self-published mobile games with +20K downloads
+Computer Science Graduate  
++2 years .Net & Unity game developer freelancing on Upwork  
+2 self-published mobile games with +20K downloads  
 <!--👋-->
 
 <!--

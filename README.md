@@ -1,7 +1,6 @@
-### .Net & Unity game developer
-Computer Science Graduate  
-+2 years .Net & Unity game developer freelancing on Upwork  
-2 self-published mobile games with +20K downloads  
+### Top-rated Senior Unity game developer on Upwork with +5 years of professional experience creating mobile, VR, and multiplayer games, I have successfully completed 30+ projects, including a self-published Google Play-featured game with over 10K downloads and a VR cybersecurity educational game showcased at GISEC Dubai.  
+
+My expertise spans Unity game development, PlayFab backend integration, AWS-certified cloud solutions, monetization strategies (AdMob, Unity Ads, IAP), and Arduino-based interactive systems. I specialize in delivering end-to-end solutions tailored to clients' unique needs, from concept and design to publishing and post-launch support.  
 <!--👋-->
 
 <!--
